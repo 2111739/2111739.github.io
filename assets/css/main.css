@@ -6,6 +6,7 @@
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
+/*
 
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
@@ -1471,6 +1472,17 @@ input, select, textarea {
 			letter-spacing: 0.075em;
 			line-height: 1.5em;
 		}
+	header.stylecustom1{
+		text-align: center;
+		padding: 3em 0 0em 0;
+		font-size: 1.5em;
+		font-weight: 700;
+	}
+	p.ref{
+		font-family: 'Times New Roman', Times, serif;
+		margin-bottom: 0.5em;
+
+	}
 
 /* Table */
 
@@ -1616,8 +1628,8 @@ input, select, textarea {
 			}
 
 		.image.featured {
-			display: block;
-			width: 100%;
+			width: 30%;
+			height: auto;
 			margin: 0 0 2em 0;
 		}
 
